@@ -1,0 +1,13 @@
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\bin\Debug\netcoreapp3.1\AtvExceptions.exe
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\bin\Debug\netcoreapp3.1\AtvExceptions.deps.json
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\bin\Debug\netcoreapp3.1\AtvExceptions.runtimeconfig.json
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\bin\Debug\netcoreapp3.1\AtvExceptions.runtimeconfig.dev.json
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\bin\Debug\netcoreapp3.1\AtvExceptions.dll
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\bin\Debug\netcoreapp3.1\AtvExceptions.pdb
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\obj\Debug\netcoreapp3.1\AtvExceptions.csproj.AssemblyReference.cache
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\obj\Debug\netcoreapp3.1\AtvExceptions.AssemblyInfoInputs.cache
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\obj\Debug\netcoreapp3.1\AtvExceptions.AssemblyInfo.cs
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\obj\Debug\netcoreapp3.1\AtvExceptions.csproj.CoreCompileInputs.cache
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\obj\Debug\netcoreapp3.1\AtvExceptions.dll
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\obj\Debug\netcoreapp3.1\AtvExceptions.pdb
+C:\Users\antonio.marques\Documents\C#\AtvExceptions\AtvExceptions\obj\Debug\netcoreapp3.1\AtvExceptions.genruntimeconfig.cache

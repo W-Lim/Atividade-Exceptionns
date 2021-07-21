@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtvExceptions", "AtvExceptions\AtvExceptions.csproj", "{D2D9D14C-68EF-4FA1-9551-59F4676EBF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2D9D14C-68EF-4FA1-9551-59F4676EBF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D9D14C-68EF-4FA1-9551-59F4676EBF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D9D14C-68EF-4FA1-9551-59F4676EBF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D9D14C-68EF-4FA1-9551-59F4676EBF10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37CEC66B-91CF-4343-8A07-2D837F0E408B}
+	EndGlobalSection
+EndGlobal
